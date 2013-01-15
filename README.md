@@ -1,4 +1,4 @@
-gameoflife
+Conway's Game of Life
 ==========
 Conway's Game of Life
 The Game of Life, also known simply as Life, is a cellular automaton devised by the 
